@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm a web developer from Ireland. I've been based in London since 2010. I mostly do .NET things, with a bit of infrastructure-as-code.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I will provide a picture of my cats on request.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+There are Twitter and Github links just below there, but I can also be found at colmprunty [at] gmail
